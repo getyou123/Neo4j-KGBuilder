@@ -13,7 +13,8 @@
 
  Date: 08/05/2023 14:49:23
 */
-
+create database kg;
+    use kg;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
