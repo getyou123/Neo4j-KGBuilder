@@ -48,9 +48,9 @@
           </div>
         </div>
         <!-- 关注及交流 -->
-        <div>
-          <kg-focus ref="kg_focus"></kg-focus>
-        </div>
+<!--        <div>-->
+<!--          <kg-focus ref="kg_focus"></kg-focus>-->
+<!--        </div>-->
       </div>
     </el-scrollbar>
     <!-- 左侧over -->

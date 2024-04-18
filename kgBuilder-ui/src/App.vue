@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-     <kg-header ref="header"></kg-header>
+<!--     <kg-header ref="header"></kg-header>-->
     <router-view />
   </div>
 </template>

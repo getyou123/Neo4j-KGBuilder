@@ -52,9 +52,9 @@
           >下一页</a>
         </div>
         <!-- 关注及交流 -->
-        <div>
-          <kg-focus ref="kg_focus"></kg-focus>
-        </div>
+<!--        <div>-->
+<!--          <kg-focus ref="kg_focus"></kg-focus>-->
+<!--        </div>-->
       </div>
     </el-scrollbar>
     <!-- 左侧over -->
@@ -138,14 +138,14 @@
             @click="help"
             class="svg-a-sm"
           >
-            <i class="el-icon-info">帮助</i>
+<!--            <i class="el-icon-info">帮助</i>-->
           </a>
           <a
             href="javascript:void(0)"
             @click="wanted"
             class="svg-a-sm"
           >
-            <i class="el-icon-question">反馈</i>
+<!--            <i class="el-icon-question">反馈</i>-->
           </a>
         </div>
       </div>
